@@ -12,7 +12,7 @@ As I have learned more about technology I have developed a passion for Cyber Sec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/onwankwo25/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 
 
 ## Tools
@@ -44,4 +44,4 @@ As I have learned more about technology I have developed a passion for Cyber Sec
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/onwankwo25/Detection-Lab/blob/main/README.md">Detection Lab</a>
